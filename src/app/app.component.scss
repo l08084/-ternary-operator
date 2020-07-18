@@ -1,0 +1,14 @@
+.block {
+  border: solid 3px black;
+  height: 200px;
+  margin: 20px;
+  width: 400px;
+
+  &.red {
+    background-color: red;
+  }
+
+  &.blue {
+    background-color: blue;
+  }
+}
